@@ -95,7 +95,7 @@
        x2="403.41769"
        y2="457.05661"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.59741414,0,0,1.4043319,-610.28803,-409.79761)" />
+       gradientTransform="matrix(0.5029919,0,0,1.4106477,-600.94302,-412.66097)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5454-7"
@@ -122,7 +122,7 @@
        x2="403.41769"
        y1="457.05661"
        x1="97.344963"
-       gradientTransform="matrix(0.60731338,0,0,0.46157846,330.06595,301.72356)"
+       gradientTransform="matrix(0.55877895,0,0,0.40467172,334.5375,332.99283)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3812"
        xlink:href="#linearGradient5454-7"
@@ -136,8 +136,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.73453202"
-     inkscape:cx="317.1454"
-     inkscape:cy="589.51227"
+     inkscape:cx="344.6564"
+     inkscape:cy="598.86699"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -189,6 +189,19 @@
          x="375.93445"
          y="242.23114"
          id="tspan3841">Articulos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="174.2606"
+       y="181.05911"
+       id="text3835"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3837"
+         x="174.2606"
+         y="181.05911"><tspan
+           style="font-size:16px"
+           id="tspan3839"> </tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -202,48 +215,48 @@
        x="73.381157"
        y="277.1217" />
     <rect
-       style="opacity:0.92000002;fill:#80b3ff;fill-opacity:1;stroke:url(#linearGradient3812);stroke-width:7.94182777;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="opacity:0.92000002;fill:#80b3ff;fill-opacity:1;stroke:url(#linearGradient3812);stroke-width:7.13284349;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3899-5"
-       width="176.77235"
-       height="80.678329"
-       x="393.73969"
-       y="472.35208"
-       transform="matrix(0.9999806,-0.00622846,0.00621126,0.99998071,0,0)" />
+       width="162.64531"
+       height="70.73172"
+       x="393.12262"
+       y="482.58502"
+       transform="matrix(0.99998239,-0.00593486,0.00651854,0.99997875,0,0)" />
     <rect
-       style="opacity:0.92000002;fill:#06989a;fill-opacity:1;stroke:url(#linearGradient5462);stroke-width:13.73927689;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="opacity:0.92000002;fill:#06989a;fill-opacity:1;stroke:url(#linearGradient5462);stroke-width:12.63516808;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3899"
-       width="173.89096"
-       height="245.46024"
-       x="-547.65222"
-       y="109.33145"
-       transform="matrix(2.2015168e-4,-0.99999998,1,4.5998552e-5,0,0)" />
+       width="146.40723"
+       height="246.56418"
+       x="-548.20691"
+       y="108.80282"
+       transform="matrix(2.6265479e-4,-0.99999997,1,3.8555011e-5,0,0)" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.92000002;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="127.77086"
-       y="432.10388"
+       x="123.68662"
+       y="463.41635"
        id="text3893"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3895"
-         x="127.77086"
-         y="432.10388">Desarrollo </tspan><tspan
+         x="123.68662"
+         y="463.41635">Desarrollo </tspan><tspan
          sodipodi:role="line"
-         x="127.77086"
-         y="482.10388"
+         x="123.68662"
+         y="513.41632"
          id="tspan3897">Web</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:43.82460785px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.92000002;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="769.63184"
-       y="294.23596"
+       x="759.68793"
+       y="296.47263"
        id="text3901"
        sodipodi:linespacing="125%"
        transform="scale(0.54763753,1.8260253)"><tspan
          sodipodi:role="line"
          id="tspan3903"
-         x="769.63184"
-         y="294.23596"
+         x="759.68793"
+         y="296.47263"
          style="font-size:40px">ADAPTABLE</tspan></text>
     <text
        xml:space="preserve"
